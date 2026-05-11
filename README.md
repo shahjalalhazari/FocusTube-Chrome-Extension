@@ -225,7 +225,7 @@ GitHub:
 https://github.com/shahjalalhazari
 
 LinkedIn:
-https://www.linkedin.com/in/shahjalal-hazari-968163230/
+https://www.linkedin.com/in/shahjalalhazari/
 
 ---
 
